@@ -14,7 +14,7 @@ html {
 }
 
 
-/* NAVBAR */
+/* navbar */
 
 .navbar-blurred {
     background: rgba(0, 0, 0, 0.65);
@@ -54,8 +54,7 @@ html {
     color: #7eb3d9;
 }
 
-/* =============== start index ================== */
-/* HERO SECTION */
+/* hero */
 
 .hero {
     background:
@@ -103,7 +102,7 @@ html {
 }
 
 
-/* INTRODUCTION SECTION */
+/* introduction */
 
 .video-show {
     height: 350px;
@@ -125,7 +124,7 @@ html {
 }
 
 
-/* TYPES OF STORMS */
+/* type of storm*/
 
 .image-card {
     height: 350px;
@@ -188,7 +187,7 @@ html {
 }
 
 
-/* CAUSES OF STORMS */
+/* Causes of storm */
 
 .info-card {
     color: #12344a;
@@ -225,7 +224,7 @@ html {
 }
 
 
-/* IMPACT OF STORMS */
+/* impact of storm */
 
 .feature-item {
     background: #f8f9fa;
@@ -285,7 +284,7 @@ html {
 }
 
 
-/* WHY REDUCE STORM RISK */
+/* why reduce storm risk*/
 
 .tp {
     border: 1px solid #e3e8ef;
@@ -315,9 +314,7 @@ html {
     line-height: 1.8;
 }
 
-/* ==================== End index =======================  */
-
-/* ================== start GUIDE ==========================  */
+/* guide */
 
 .carousel-caption {
     right: auto;
@@ -359,7 +356,7 @@ html {
     margin: 0;
 }
 
-/* HISTORICAL CAROUSEL */
+/*historical carousel*/
 
 .historical-content {
     position: relative;
@@ -375,7 +372,7 @@ html {
     background: rgba(0, 0, 0, 0.5);
 }
 
-/* STORM TITLE */
+/* storm title */
 
 .storm-title {
     font-size: 48px;
@@ -385,7 +382,7 @@ html {
     text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.8);
 }
 
-/* STORM CARD */
+/* storm card */
 
 .storm-card {
     background-color: #102A43;
@@ -393,7 +390,7 @@ html {
     border: 1px solid #244766;
 }
 
-/* STORM BOX */
+/* storm box*/
 
 .storm-box {
     background-color: #183B5B;
@@ -412,7 +409,7 @@ html {
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
 }
 
-/* STORM TEXT */
+/* Storm text*/
 
 .storm-text {
     color: #CBD5E1;
@@ -426,7 +423,7 @@ html {
     border-radius: 10px;
 }
 
-/* STORM IMAGE */
+/* storm image */
 
 .storm-image {
     width: 100%;
@@ -434,7 +431,7 @@ html {
     object-fit: cover;
 }
 
-/* ARTICLE IMAGE */
+/* artical image*/
 
 .article-image {
     width: 100%;
@@ -449,13 +446,13 @@ html {
     filter: blur(0);
 }
 
-/* STORM BACKGROUND */
+/* storm background*/
 
 .c-bg {
     background-color: #102A43;
 }
 
-/* RELATED ARTICLES */
+/* related artical */
 
 .list-group-item .row {
     width: 100%;
@@ -476,9 +473,7 @@ html {
     object-fit: cover;
     margin-left: 17px;
 }
-/* ===================== End guide ==================== */
-
-/* ==================== Start FAQ ====================== */
+/* faq */
 #faq .accordion-item {
     background-color: #10263D;
     border: 1px solid #24445F;
@@ -502,9 +497,7 @@ html {
     color: #D6E4F0;
     background-color: #0B1D30;
 }
-/* ======================= End FAQ ========================== */
 
-/* ========================= Start About US =========================== */
 /* About us */
 .abt {
     min-height: 100vh;
