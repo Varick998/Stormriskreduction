@@ -5,13 +5,3 @@ body {
     color: #EAF6FF;
 }
 
-
-a:hover {
-    color: #527da8;
-    text-decoration: underline;
-}
-
-.alert-info {
-    background-color: #e3edf7;
-    color: #243f63;
-}
